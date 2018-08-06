@@ -1,0 +1,8 @@
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\bin\Debug\MapperDemoProject.exe.config
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\bin\Debug\MapperDemoProject.exe
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\bin\Debug\MapperDemoProject.pdb
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\bin\Debug\AutoMapper.dll
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\bin\Debug\AutoMapper.xml
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\obj\Debug\MapperDemoProject.csprojResolveAssemblyReference.cache
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\obj\Debug\MapperDemoProject.exe
+c:\users\pmdoshi\documents\visual studio 2012\Projects\MapperDemoProject\MapperDemoProject\obj\Debug\MapperDemoProject.pdb
